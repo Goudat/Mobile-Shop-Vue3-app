@@ -1,0 +1,14 @@
+id: "1003",
+name: "Samsung Galaxy A21s SM-A217FZBGEGY Dual SIM Mobile - 6.5 Inch, 64 GB, 4 GB RAM, 4G LTE",
+description: ["Camera Resolution: 48 megapixels","Ram: 4 gigabytes","Networking topology: 4g l","DUAL SIM"],
+cart:0,
+stock:5,
+instok:true,
+price: 3098,
+image_title: "Samsung Galaxy A21s",
+image: "images/samsung_a21s.jpg",
+colors: [
+    {color:"Black", pic:"images/samsung_a21s_black.jpg"},
+    {color:"Blue", pic:"images/samsung_a21s_blue.jpg"},
+    {color:"White", pic:"images/samsung_a21s_white.jpg"}
+    ]
